@@ -6,6 +6,12 @@ I will keep makeing periodic merge requests to the original repository just in c
 I do not have IPv6 so if anyone could check the following peers I would greatly appreciate it:
 * [deavmi](https://github.com/CocolinoFan/peers/blob/master/af/za/deavmi.md)
 
+
+
+
+
+
+
 [![Build Status](https://secure.travis-ci.org/hyperboria/peers.png)](http://travis-ci.org/hyperboria/peers)
 
 > A geographically sorted list of public peering credentials for joining [Hyperboria](https://hyperboria.net/).
