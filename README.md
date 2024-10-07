@@ -5,6 +5,7 @@ I will keep makeing periodic merge requests to the original repository just in c
 ## Help needed
 I do not have IPv6 so if anyone could check the following peers I would greatly appreciate it:
 * [deavmi](https://github.com/CocolinoFan/peers/blob/master/af/za/deavmi.md.k)
+* [sabsare](https://github.com/CocolinoFan/peers/blob/master/eu/nl/amsterdam/sabsare.geek.k)
 <br />
 <br />
 <br />
